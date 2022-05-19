@@ -33,4 +33,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için önce neyi değitirme
 
 [MIT]()
 
-![Image](img/markdown.png)
+![Image]([img/markdown.png](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png))
